@@ -6,6 +6,6 @@ opt.title = true
 -- Use tabs
 opt.autoindent = true
 opt.expandtab = false
-opt.tabstop = 2
-opt.shiftwidth = 2
+opt.tabstop = 4
+opt.shiftwidth = 4
 opt.softtabstop = 0
